@@ -16,3 +16,21 @@ To run this project locally:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/edperez0/TikTakToe.git
+
+2. **Open the Project in Unity:** Open Unity Hub, navigate to the project folder, and open it.
+3. **Run the Game:** Click the Play button in the Unity Editor to start the game.
+
+## How to Play
+1. **Select the desired game mode** (Player vs. Player or Player vs. AI).
+2. **Place your marker:** The first player places their marker on an empty cell by clicking on it.
+3. **Alternate turns:** Take turns until one player gets three markers in a row (vertically, horizontally, or diagonally) or the board fills up without a winner.
+4. **Reset the game** to play again.
+
+## Project Structure
+-  GameMode.cs: Handles game mode selection and player turn management.
+   - WinnerDisplay.cs: Manages the display of the winner and reset functionality.
+   - Slot.cs: Controls the individual cells on the game board.
+- **Assets:** Includes sounds, sprites, and UI elements.
+- **Scenes:** Contains the main game scene.
+
+## Screenshots
