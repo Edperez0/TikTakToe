@@ -34,3 +34,11 @@ To run this project locally:
 - **Scenes:** Contains the main game scene.
 
 ## Screenshots
+
+## Technologies Used
+- **Unity** for game development
+- **C#** for scripting
+- **GitHub** for version control
+
+## Demo Video
+[![Watch the demo](http://img.youtube.com/vi/a0P9v12r4VQ/0.jpg)](https://youtube.com/shorts/a0P9v12r4VQ?feature=share)
